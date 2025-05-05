@@ -5,33 +5,10 @@
 - Implementação do sistema " Calcular Salário "
 
 ------
-
 ## Funcionalidades ✅
 - É possível calcular o salário dos funcionários ( Gerente, Vendedor e FreeLancer ).
 - Pode-se obter o salário final de cada funcionário de acordo com as suas especificações ( como por exemplo, bônus fixo; comissão, valor do dia trabalhado ) .
-- 
---------
-## Tecnologias utilizadas 🛠️
-- **Java**                -Linguagem de programação principal.
-- **Visual Studio Code**  -Editor de código-fonte utilizado para desenvolver a aplicação.
-
------------
-## Como Executar 🖥️
-1. Clone o repositório:
-   ```bash
-   # Herança em Java
-
-## Sistema Funcionários da Empresa 📖
-- Atividade prática da disciplina de DS sobre Herança em Java. 
-- Implementação do sistema " Cadastro de Funcionários "
-
-------
-
-## Funcionalidades ✅
-- É possível cadastrar os funcionários ( determinando o nome, o cpf, a data de nascimento, o departamento e o salário ).
-- Pode-se exibir os dados cadastrados de cada funcionário.
-- E escolher o tipo de funcionário que deseja (Gerente, Desenvolvedor ou Estagiário).
-
+  
 --------
 ## Tecnologias utilizadas 🛠️
 - **Java**                -Linguagem de programação principal.
